@@ -1,0 +1,23 @@
+<gradovi>
+	<grad ime_grada="Dubrovnik" sirina="42.7" duzina="18.1" />
+	<grad ime_grada="Djakovo" sirina="45.3" duzina="18.4" />
+	<grad ime_grada="Gospic" sirina="44.55" duzina="15.3667" />
+	<grad ime_grada="Karlovac" sirina="45.4833" duzina="15.55" />
+	<grad ime_grada="Knin" sirina="44.0333" duzina="16.2" />
+	<grad ime_grada="Osijek" sirina="45.55" duzina="18.6667" />
+	<grad ime_grada="Pula" sirina="44.9" duzina="13.8" />
+	<grad ime_grada="Rijeka" sirina="45.3333" duzina="14.4333" />
+	<grad ime_grada="Slunj" sirina="45.1166" duzina="15.5833" />
+	<grad ime_grada="Sl.Brod" sirina="45.1667" duzina="18.0167" />
+	<grad ime_grada="Split" sirina="43.5" duzina="16.4333" />
+	<grad ime_grada="Sibenik" sirina="43.7333" duzina="15.9" />
+	<grad ime_grada="Umag" sirina="45.4" duzina="13.5167" />
+	<grad ime_grada="Cakovec" sirina="46.3833" duzina="16.4166" />
+	<grad ime_grada="Virovitica" sirina="45.83" duzina="17.3833" />
+	<grad ime_grada="Vukovar" sirina="45.35" duzina="19.0" />
+	<grad ime_grada="Kutina" sirina="45.4833" duzina="16.2820" />
+	<grad ime_grada="Zagreb" sirina="45.8167" duzina="15.9833" />
+	<grad ime_grada="Vinkovci" sirina="45.3" duzina="18.8" />
+	<grad ime_grada="Bjelovar" sirina="45.9" duzina="16.83" />
+	<grad ime_grada="Pakrac" sirina="45.433" duzina="17.0283" />
+</gradovi>
